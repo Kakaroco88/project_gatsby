@@ -11,7 +11,7 @@ const IndexPage = () => {
 			Ketiga adalah paham kapitalisme yaitu paham dimana yang kaya menguasai kehidupan, sehingga muncul paham sekulerisme 
 			yang menghasilkan 3 point. Pertama bebas berpendapat, bebas berekspresi dan bebas memiliki.</p>
 			<p>Kontak saya <a href="/contact">Hub Saya</a></p>
-			<Mau jadi developer <Link to="/contact">Klik Mau</Link></p>
+			<p>Mau jadi developer <Link to="/contact">Klik Mau</Link></p>
 		</div>
 	)
 }
