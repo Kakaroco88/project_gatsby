@@ -1,7 +1,5 @@
 import React from "react"
 
-import { Link } from 'gatsby'
-
 const IndexPage = () => {
 	return (
 		<div>	
@@ -13,7 +11,7 @@ const IndexPage = () => {
 			Ketiga adalah paham kapitalisme yaitu paham dimana yang kaya menguasai kehidupan, sehingga muncul paham sekulerisme 
 			yang menghasilkan 3 point. Pertama bebas berpendapat, bebas berekspresi dan bebas memiliki.</p>
 			<p>Kontak saya <a href="/contact">Hub Saya</a></p>
-			<p>Mau jadi developer <Link to="/contact">Call me</Link></p>
+			<p>Mau jadi develope</p>
 		</div>
 	)
 }
