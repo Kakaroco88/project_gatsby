@@ -4,9 +4,9 @@ const ContactPage =()=> {
 return (
 	<div>
 		<h1>Contact</h1>
-		<p>Saya bisa dihubungi via @kakaroco_maps on instagram</p>
+		<p>Saya bisa dihubungi di nomor 0821-xxxx-xxxx</p>
 		<p>Saya bisa dihubungi via
-		<a href="https://instagram.com/kakaroco_maps" target="_blank">@kakaroco_maps</a>di instagram!</p>
+		<a href="https://instagram.com/kakaroco_maps" target="_blank"> @kakaroco_maps </a>di instagram!</p>
 	</div>
 )
 }
