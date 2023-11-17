@@ -15,21 +15,19 @@ const IndexPage = () => {
 			<p>Telepon		: 082113497757</p>
 			<p>Email		: aswadh250@gmail.com</p>
 			<p>Media Sosial		: <a href="/contact">Buka Instagram</a></p>
-		</div>
-		<div>
+		
+		
 			<h2>PENDIDIKAN</h2>
 			<p>SDN KAMPUNG BAMBU II</p>
 			<p>SMPN 1 LEGOK</p>
 			<p>SMKN 4 TANGERANG</p>
 			<p>POLITEKNIK NEGERI JAKARTA</p>
-		</div>
-		<div>
+		
 			<h2>KEMAMPUAN</h2>
 			<p>- Microsoft office excel, word dan Power Point</p>
 			<p>- Bahasa Inggris</p>
 			<p>- Management dastribusi tenaga listrik</p>
-		</div>
-		<div>
+
 			<h2>PENGALAMAN KERJA</h2>
 			<p>2009-2023	ASISTANT OPERATION DISTRIBUTION at PT. PLN (Persero) Indonesia</p>
 		</div>
